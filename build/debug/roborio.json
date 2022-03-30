@@ -1,0 +1,9 @@
+[
+  {
+    "type": "java",
+    "name": "frcJava",
+    "port": 8349,
+    "target": "10.75.39.2",
+    "project": "Elev8-Sacramento-New-Imported"
+  }
+]
